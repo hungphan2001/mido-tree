@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/bliss_mido.mk
+    $(LOCAL_DIR)/cherish_mido.mk
 
 COMMON_LUNCH_CHOICES := \
-    bliss_mido-eng \
-    bliss_mido-userdebug \
-    bliss_mido-user
+    cherish_mido-eng \
+    cherish_mido-userdebug \
+    cherish_mido-user
